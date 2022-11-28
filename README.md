@@ -1,4 +1,4 @@
-# Проектная работа. MERN-blog backend
+# Проектная работа. MERN-blog frontend
 
 Фуллстек-приложение созданное в рамках интенсива от [Archakov06](https://github.com/Archakov06) . В этой части проекта реализован frontend на React.js и произведен деплой на Vercel
 
